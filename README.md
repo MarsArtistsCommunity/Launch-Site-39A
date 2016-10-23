@@ -6,6 +6,9 @@ Free open-source models of the 39A launch site https://en.wikipedia.org/wiki/Ken
 ![](https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/ITS_concept_tower_signature1480.png)
 ![](https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/ITS_concept_tower_side.png)
 
+**SpaceX 39A Assembly Hangar**
+[Maya File v1](Launch-Site-39A/SpaceX_hangar.ma)
+![](https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/Screen%20Shot%202016-10-22%20at%2010.22.06%20PM.png)
 
 **Water Tower version 1.0**  
 [Maya File v1](Launch-Site-39A/launch_site_39A_water_tower.ma)
