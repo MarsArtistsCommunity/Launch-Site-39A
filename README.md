@@ -15,8 +15,9 @@ https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/launch_site_
 ![](https://github.com/oceanbluesky/Launch-Site-39A/blob/master/launch_site_39A_light_tower_SignatureImage1480x800CinemaWide.png)  
 
 **LOX Tank version 1.0**  
-https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/launch_site_39A_liquid_oxygen_tank.ma
+https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/LOX%20tank%20with%20mapped%20UVs%20and%20PSD%20file.zip
 ![](https://github.com/oceanbluesky/Launch-Site-39A/blob/master/launch_site_39A_lox_tank_SignatureImage1480x800CinemaWide.png)  
+![](https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/LOX_planet_labs.png)
 
 **SpaceX 39A Assembly Hangar**
 https://github.com/MarsArtistsCommunity/Launch-Site-39A/blob/master/SpaceX_hangar.ma
